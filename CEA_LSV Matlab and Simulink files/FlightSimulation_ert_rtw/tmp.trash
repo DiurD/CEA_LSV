@@ -1,0 +1,9 @@
+
+avrdude: AVR device initialized and ready to accept instructions
+avrdude: Device signature = 0x1e9801 (probably m2560)
+avrdude: reading input file "C:\Users\dmgp1\OneDrive\Área de Trabalho\Trab_Final_Diego_2021420846_MecVoo/FlightSimulation.hex"
+avrdude: writing flash (68444 bytes):
+avrdude: 68444 bytes of flash written
+
+avrdude done.  Thank you.
+
