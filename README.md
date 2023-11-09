@@ -1,5 +1,6 @@
 # CEA_LSV
-Repositório para arquivos utilizados no Simulador de Voo do Laboratório de Simulação de Voo (LSV) do Centro de Estudos Aeronáuticos (CEA) na UFMG.
+Se você consegue ler e entender isto, prossiga para a [seção em português](#pt-br)
+If you can read and fully understand English, continue to the [english sections](#en)
 
 ## PT-BR
 ### Sumário
