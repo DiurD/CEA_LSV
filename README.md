@@ -26,10 +26,11 @@ No atual estado, o *software* desenvolvido no ambiente *Matlab* só é capaz de 
 
 A instalação do simulador de voo é relativamente simples e deve ser seguida como mostrado abaixo, com todos os arquivos presentes na pasta `On first install`:
 
-1. Instale todos os pacotes *Microsoft C++ Redistributables* , localizados em pastas com nomes dos anos em que foram publicados (2005, 2008, 2010, 2012, 2013, 2015)
-   - É importante instalar tanto os arquivos x64 quanto os x86
-2. Copie a pasta `CEA_UFMG_plugin` para o seguinte diretório "X-Plane 11\Resources\plugins". Caso o *XPlane 11* tenha sido instalado pela *Steam*, é comum ter adicionalmente o seguinte caminho "Program Files\Steam\steamapps\common\X-Plane 11\Resources\plugins"
-   - Abra o jogo tente verificar a existência do *plugin*: caso exista, a instalação foi feita com sucesso e você pode prosseguir para a execução; caso não exista, verifique as instalações do Passo 1 ou entre em contato com dmgp1302@gmail.com
+1. Copie a pasta `CEA_UFMG_plugin` para o seguinte diretório "X-Plane 11\Resources\plugins". Caso o *XPlane 11* tenha sido instalado pela *Steam*, é comum ter adicionalmente o seguinte caminho "Program Files\Steam\steamapps\common\X-Plane 11\Resources\plugins"
+   - Abra o jogo tente verificar a existência do *plugin*: caso exista, a instalação foi feita com sucesso e você pode prosseguir para a execução do simulador; caso não exista, siga ao Passo 2
+2. Começando pelos mais recentes, instale os pacotes *Microsoft C++ Redistributables*, localizados em pastas com nomes dos anos em que foram publicados (2005, 2008, 2010, 2012, 2013, 2015), e inicie o jogo entre as instalações. Encerre as instalações no momento em que o plugin aparecer dentro do jogo.
+   - É importante instalar tanto os arquivos x64 quanto os x86. Se já estiverem instalados, o instalador interromperá a instalação.
+   - Caso ainda haja erros, entre em contato com dmgp1302@gmail.com
 
 ### Ordem de Execução
 
@@ -66,10 +67,11 @@ In its current state, the *software* developed in the *Matlab* environment is on
 
 Installing the flight simulator is relatively simple and must be followed as shown below, with all files present in the `On first install` folder:
 
-1. Install all *Microsoft C++ Redistributables* packages, located in folders named after the years they were published (2005, 2008, 2010, 2012, 2013, 2015)
-    - It is important to install both x64 and x86 files
-2. Copy the `CEA_UFMG_plugin` folder to the following directory "X-Plane 11\Resources\plugins". If *XPlane 11* was installed by *Steam*, it is common to additionally have the following path "Program Files\Steam\steamapps\common\X-Plane 11\Resources\plugins"
-    - Open the game and check the existence of the *plugin*: if found, the installation was successful and you can proceed with to [Execution Order](#execution-order); If not found, verify all instalations in Step 1 or contact dmgp1302@gmail.com
+1. Copy the `CEA_UFMG_plugin` folder to the following directory "X-Plane 11\Resources\plugins". If *XPlane 11* was installed on *Steam*, it is common to additionally have the following path "Program Files\Steam\steamapps\common\X-Plane 11\Resources\plugins"
+   - Open the game and try to check the existence of the *plugin*: if it exists, the installation was successful and you can proceed to run the simulator; If it doesn't exist, go to Step 2
+2. Starting with the most recent ones, install the *Microsoft C++ Redistributables* packages, located in folders named after the years they were published (2005, 2008, 2010, 2012, 2013, 2015), and start the game between installations. Close the installations the moment the plugin appears within the game.
+   - It is important to install both x64 and x86 files. If they are already installed, the installer will stop the installation.
+   - If there are still errors, please contact dmgp1302@gmail.com
 
 ### Execution Order
 
