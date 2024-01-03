@@ -24,7 +24,7 @@ No atual estado, o *software* desenvolvido no ambiente *Matlab* só é capaz de 
 
 ### Guia de Instalação
 
-A instalação do simulador de voo é relativamente simples e deve ser seguida como mostrado abaixo, com todos os arquivos presentes na pasta `On first install`:
+A instalação do simulador de voo é relativamente simples e deve ser seguida como mostrado a seguir. Primeiramente baixe todos os arquivos presentes neste repositório. Em seguida, acesse a pasta `On first install` e siga os passos exibidos abaixo:
 
 1. Copie a pasta `CEA_UFMG_plugin` para o seguinte diretório "X-Plane 11\Resources\plugins". Caso o *XPlane 11* tenha sido instalado pela *Steam*, é comum ter adicionalmente o seguinte caminho "Program Files\Steam\steamapps\common\X-Plane 11\Resources\plugins"
    - Abra o jogo tente verificar a existência do *plugin*: caso exista, a instalação foi feita com sucesso e você pode prosseguir para a execução do simulador; caso não exista, siga ao Passo 2
@@ -65,7 +65,7 @@ In its current state, the *software* developed in the *Matlab* environment is on
 
 ### Installation Guide
 
-Installing the flight simulator is relatively simple and must be followed as shown below, with all files present in the `On first install` folder:
+The installation of the flight simulator is relatively simple and should be followed as shown in this section. First, download all the files present in this repository. Then, access the `On first install` folder and follow the steps below:
 
 1. Copy the `CEA_UFMG_plugin` folder to the following directory "X-Plane 11\Resources\plugins". If *XPlane 11* was installed on *Steam*, it is common to additionally have the following path "Program Files\Steam\steamapps\common\X-Plane 11\Resources\plugins"
    - Open the game and try to check the existence of the *plugin*: if it exists, the installation was successful and you can proceed to run the simulator; If it doesn't exist, go to Step 2
